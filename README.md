@@ -56,4 +56,20 @@ python3 -m pytest -v
 Python, CLI design (argparse), regex, unit testing (pytest), Git, secure coding basics, digital forensics fundamentals.
 
 ## Disclaimer
-For educational and authorized security testing only.
+
+This project was created by a final-year B.Sc. Cyber & Digital Science student for **educational and learning purposes** as part of my cybersecurity portfolio.
+
+- The tool only **identifies** the likely type of a hash. It does not crack, reverse, or recover passwords.
+- Use it only on hashes you own or have **explicit written permission** to analyze, such as your own lab, CTF challenges, or authorized security assessments.
+- Do not use it for unauthorized access, or for any illegal or unethical activity. Misuse is solely the responsibility of the user.
+- The software is provided "as is", without warranty of any kind. The author is not liable for any damage or misuse resulting from its use.
+- Results are **candidates, not proof**. Always verify with additional context.
+
+## Author
+
+**Nagesh Bhure**, final-year B.Sc. Cyber & Digital Science student, aspiring SOC analyst / blue team professional.
+[LinkedIn](https://linkedin.com/in/nagesh-bhure-a650793a3) | [GitHub](https://github.com/cyber-nagesh)
+
+## License
+
+Released under the MIT License. See the `LICENSE` file for details.
